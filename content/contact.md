@@ -7,4 +7,4 @@ weight = 3
 
 For work, write to [getduet@gmail.com](mailto:getduet@gmail.com).
 
-For anything else, find me on [X](https://x.com/aiduet).
+For anything else, find me on [X](https://x.com/thepaperai).
